@@ -1,5 +1,0 @@
-<application>
-  <component name="TemplateDataLanguagePatterns">
-    <pattern value="category_templates.blade.php;order_show.blade.php" lang="JavaScript 1.8" />
-  </component>
-</application>
