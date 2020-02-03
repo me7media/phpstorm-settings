@@ -1,0 +1,15 @@
+<application>
+  <component name="libraryTable">
+    <library name="InputSpinner" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_lab.iamrohit.in_demo_bootstrap-input-spinner_InputSpinner.js" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/javascript/extLibs/http_lab.iamrohit.in_demo_bootstrap-input-spinner_InputSpinner.js" />
+      </CLASSES>
+      <SOURCES />
+    </library>
+  </component>
+</application>
