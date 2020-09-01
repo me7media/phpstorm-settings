@@ -30,6 +30,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="me7media" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://me_media@bitbucket.org/KOROLKOV_Sergey/btb_constructor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/html" />
